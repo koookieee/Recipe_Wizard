@@ -1,5 +1,5 @@
-#Recipe Wizard
-Hungry for mouthwatering recipes? "Delicious Delicacy" has got your cravings covered! It's like having a personal food genie that grants all your culinary wishes. Just type in your desires, and voila! A treasure trove of deliciousness appears before your eyes.
+**Recipe Wizard**
+#### Hungry for mouthwatering recipes? "Delicious Delicacy" has got your cravings covered! It's like having a personal food genie that grants all your culinary wishes. Just type in your desires, and voila! A treasure trove of deliciousness appears before your eyes.
 
 # Getting Started with Create React App
 
