@@ -5,6 +5,9 @@
 ![Alt text](image.png)
 ![Alt text](imagec-2.png)
 
+
+#### The api can be accessed from **https://www.edamam.com/**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

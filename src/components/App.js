@@ -19,11 +19,11 @@ const Loader = () => {
 
 const App = () => {
 
+// The api can be taken from anywhere , i used EDAMAM's api.
 
-
-  const API_ID="d1844ad9";
-  const APP_ID="c38ae492";
-  const APP_KEY="f1449a79c75028e50710d11937d56ab1";
+  const API_ID="MENTION YOUR APP ID";
+  const APP_ID="MENTION YOUR APP ID";
+  const APP_KEY="MENTION YOUR API KEY";
   
   const [rec,setrec]=useState([]);
   const [search,setsearch]=useState("");
@@ -37,7 +37,7 @@ const App = () => {
   },[query]);
 
   const getRecipes= async ()=>{
-    const response= await fetch(`https://api.edamam.com/api/recipes/v2?type=public&q=${query}&app_id=c38ae492&app_key=f1449a79c75028e50710d11937d56ab1`)
+    const response= await fetch(`https://api.edamam.com/api/recipes/v2?type=public&q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`)
     const data= await response.json();
     setrec(data.hits);
     setIsLoading(false);
