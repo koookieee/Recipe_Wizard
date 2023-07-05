@@ -1,6 +1,11 @@
 **Recipe Wizard**
 #### Hungry for mouthwatering recipes? "Delicious Delicacy" has got your cravings covered! It's like having a personal food genie that grants all your culinary wishes. Just type in your desires, and voila! A treasure trove of deliciousness appears before your eyes.
 
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
